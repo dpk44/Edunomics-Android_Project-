@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">HAMMOQ</string>
+
+    <string name="text_accounts">List Of All Accounts in DataBase</string>
+
+    <string name="hint_name">Name</string>
+
+    <string name="hint_email">Email</string>
+
+    <string name="hint_password">Password</string>
+
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="text_login">Login</string>
+
+    <string name="text_register">Register</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+
+    <string name="error_message_first_name">Enter First Name</string>
+
+    <string name="error_message_last_name">Enter Last Name</string>
+
+    <string name="error_message_mobile">Enter Mobile Number</string>
+
+    <string name="error_message_email">Enter Valid Email</string>
+
+    <string name="error_message_valid_number">Enter Valid Mobile Number</string>
+
+    <string name="error_message_age">Enter Age</string>
+
+    <string name="error_message_password">Enter Password</string>
+
+    <string name="error_message_password_config">Enter Confirmation Password</string>
+
+    <string name="success_message">Registration Successful</string>
+
+    <string name="text_not_member">No account yet? Create one</string>
+
+    <string name="text_already_member">Already a member? Login</string>
+
+    <string name="error_email_exists">Email Already Exists</string>
+
+    <string name="error_password_match">Password Does Not Matches</string>
+
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="text_hello">Hello,</string>
+
+    <string name="text_title">Android Tutorials Hub</string>
+
+    <string name="map_key" translatable="false">AIzaSyDJdUGaciTPIVOyf_DSsTeFKNXIBsoYQ9c</string>
+
+    <string name="MobileNumber">Mobile Number</string>
+
+    <string name="Password">Password</string>
+
+    <string name="Forgot">  Forgot password  </string>
+
+    <string name="Dob">Date Of Birth</string>
+
+    <string name="Full_Name">Full Name</string>
+
+    <string name="Login">Login</string>
+
+    <string name="Signup">SIGN UP</string>
+
+    <string name="Done">Done</string>
+
+    <string name="PrivacyPolicy">Terms and Conditions <u>I HAVE READ AND AGREE FOR TERMS SERVICE </u></string>
+
+    <string name="photo_and_forget_it">PHOTO AND FORGET IT</string>
+
+    <string name="sign_in">Sign In</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="last_name">Last Name</string>
+
+    <string name="first_name">First Name</string>
+
+    <string name="email">Email</string>
+
+    <string name="phone_number">Phone Number</string>
+
+    <string name="password_confirmation">Password Confirmation</string>
+
+    <string name="coupon_code">Coupon Code</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="select_condition">Select Condition</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="brand_model">Brand / Model</string>
+    <string name="quantity">Quantity</string>
+    <string name="skua_1">SKUA-1</string>
+    <string name="cogs">  COGS   </string>
+    <string name="next_product">Next Product</string>
+    <string name="click_image">    Click Image    </string>
+    <string name="todo">TODO</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="change_payment">Change Payment</string>
+    <string name="change_password">Change Password</string>
+    <string name="logins">Logins</string>
+    <string name="config">Config</string>
+    <string name="log_out">Log Out</string>
+    <string name="previous_transaction">Previous Transaction</string>
+    <string name="payments_and_actions">Payments and Actions</string>
+    <string name="to_change_payment_card_please_add_a_credit_card_1_will_be_deducted">To change payment card please add a credit card, $1 will be deducted</string>
+    <string name="old_password">Old Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="brand_category_model">Brand + Category + Model</string>
+    <string name="brand_model_category">Brand + Model + Category</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="edit_the_logins_to_automate">Edit the Logins to Automate</string>
+</resources>

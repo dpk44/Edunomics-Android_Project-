@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    android:scrollbars="none">
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:id="@+id/frameContainer"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@+id/animated_bar" />
+
+
+        <nl.joery.animatedbottombar.AnimatedBottomBar
+            android:id="@+id/animated_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/ButtonColor"
+            app:abb_indicatorAppearance="round"
+            app:abb_indicatorColor="@color/bottom"
+            app:abb_indicatorHeight="4dp"
+            app:abb_indicatorLocation="bottom"
+            app:abb_indicatorMargin="10dp"
+            app:abb_selectedTabType="text"
+            app:abb_tabColor="@color/white"
+            app:abb_tabColorSelected="@color/white"
+            app:abb_tabs="@menu/bottom_nav_menu" />
+
+        <!--        <com.ismaeldivita.chipnavigation.ChipNavigationBar-->
+        <!--            android:id="@+id/bottom_navigation"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="65dp"-->
+        <!--            android:layout_margin="10dp"-->
+        <!--            android:layout_alignParentBottom="true"-->
+        <!--            android:elevation="10dp"-->
+        <!--            android:padding="8dp"-->
+        <!--            android:background="@drawable/rounded"-->
+        <!--            app:cnb_menuResource="@menu/bottom_nav_menu"/>-->
+
+    </RelativeLayout>
+
+</ScrollView>
